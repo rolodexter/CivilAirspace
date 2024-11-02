@@ -13,7 +13,7 @@ While our skies remain largely unused, property owners and drone operators await
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Joe_Maristela-0077B5?style=social&logo=linkedin)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Will_Tobin-0077B5?style=social&logo=linkedin)
 
-# [Airspace Owner App](docs/Airspace_Owner_App.md)
+## [Airspace Owner App](docs/Airspace_Owner_App.md)
 A dedicated mobile application for property owners to:
 - Set up and manage airspace schedules
 - Configure usage parameters
@@ -22,7 +22,7 @@ A dedicated mobile application for property owners to:
 - Manage CIVIL token earnings
 - View analytics and reports
 
-# [Drone Operator App](docs/Drone_Operator_App.md)
+## [Drone Operator App](docs/Drone_Operator_App.md)
 A specialized interface for drone operators to:
 - Discover available airspace
 - Book flight paths
@@ -33,7 +33,7 @@ A specialized interface for drone operators to:
 
 ![Drone Operations Management Funnel](docs/images/DroneOperationsManagementFunnel.png)
 
-# [Nodes](docs/Nodes.md)
+## [Nodes](docs/Nodes.md)
 ![CivilAirspace Nodes](docs/images/CivilAirspaceNodes.png)
 1. **[Control Towers](docs/Control_Towers.md)**
    - Real-time airspace coordination
@@ -61,14 +61,14 @@ A specialized interface for drone operators to:
    - Safety monitoring
    - Incident reporting
 
-# [Tokenomics](docs/Tokenomics.md)
+## [Tokenomics](docs/Tokenomics.md)
 The CIVIL token powers coordination across CivilAirspace, enabling:
 - Airspace licensing and payments
 - Node operator earnings
 - Data marketplaces 
 - Network governance
 
-# [Partners](docs/partners/Partners.md)
+## [Partners](docs/partners/Partners.md)
 
 1. **[Droneports](docs/partners/Droneports.md)**  
    Organizations providing droneports, docking stations, and refueling hubs for our decentralized network.
