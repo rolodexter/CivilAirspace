@@ -3,7 +3,7 @@
 ## Scenario Overview
 A university research team uses their CivilScout account to request aerial survey data to study animal species distribution in a specific geographic area. This case demonstrates how CivilAirspace facilitates collaboration between CivilScouts, airspace owners, and drone operators.
 
-![Aerial Survey Data](/docs/images/AerialSurveyData.png)
+![Aerial Survey Data](../images/AerialSurveyData.png)
 
 ## Workflow
 
