@@ -99,3 +99,24 @@ A dedicated mobile application that enables property owners to manage, monetize,
 - Secure communications
 - Low latency operations
 - Redundancy support
+
+## System Integration
+
+### Protocol Integration
+- Core logic connections
+- Smart contract interactions
+- Chain adapter compatibility
+- Interface implementations
+
+### Network Integration
+- Node communication
+- Data verification
+- State management
+- Transaction handling
+
+## Related Documentation
+
+See also:
+- [Protocol Design](docs/protocol/Protocol_Design.md)
+- [Tokenomics](docs/Tokenomics.md)
+- [Node Operations](docs/infrastructure/nodes.md)
