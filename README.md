@@ -31,6 +31,8 @@ A specialized interface for drone operators to:
 - Manage CIVIL token revenues
 - Track compliance
 
+![Drone Operations Management Funnel](docs/images/DroneOperationsManagementFunnel.png)
+
 # [Nodes](docs/Nodes.md)
 
 1. **[Control Towers](docs/Control_Towers.md)**
