@@ -59,6 +59,13 @@ A specialized interface for drone operators to:
    - Safety monitoring
    - Incident reporting
 
+# [Tokenomics](docs/Tokenomics.md)
+The CIVIL token powers coordination across CivilAirspace, enabling:
+- Airspace licensing and payments
+- Node operator earnings
+- Data marketplaces 
+- Network governance
+
 # [Partners](docs/partners/Partners.md)
 
 1. **[Droneports](docs/partners/Droneports.md)**  
