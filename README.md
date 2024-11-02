@@ -68,6 +68,14 @@ The CIVIL token powers coordination across CivilAirspace, enabling:
 - Data marketplaces 
 - Network governance
 
+## [Protocol Design](docs/protocol/Protocol_Design.md)
+The CivilAirspace protocol includes base level contracts that enable:
+- Airspace licensing
+- Token distribution
+- Data marketplace
+- Network governance
+- Compliance monitoring
+
 ## [Partners](docs/partners/Partners.md)
 
 1. **[Droneports](docs/partners/Droneports.md)**  
