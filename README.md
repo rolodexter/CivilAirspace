@@ -26,6 +26,8 @@ A specialized interface for researchers and data consumers to:
 - Track project progress
 - Manage CIVIL token payments
 
+![CivilScout App Functionalities](docs/images/CivilScoutAppFunctionalities.png)
+
 ## [Airspace Owner App](docs/Airspace_Owner_App.md)
 A dedicated mobile application for property owners to:
 - Set up and manage airspace schedules
@@ -44,10 +46,8 @@ A specialized interface for drone operators to:
 - Manage CIVIL token revenues
 - Track compliance
 
-![Drone Operations Management Funnel](docs/images/DroneOperationsManagementFunnel.png)
-
 ## [Nodes](docs/Nodes.md)
-![CivilAirspace Nodes](docs/images/CivilAirspaceNodes.png)
+
 1. **[Control Towers](docs/Control_Towers.md)**
    - Real-time airspace coordination
    - Traffic management and routing
@@ -101,19 +101,21 @@ The CivilAirspace protocol includes base level contracts that enable:
    Property owners with verified rights to license their airspace for drone operations.
 
 ## Documentation Index
+
 ### Protocol Design
 - [Protocol Design Overview](docs/protocol/Protocol_Design.md)
-- [Tokenomics](docs/Tokenomics.md)
+- [Tokenomics](docs/tokenomics/Tokenomics.md)
 
 ### Apps
-- [Airspace Owner App](docs/Airspace_Owner_App.md)
-- [Drone Operator App](docs/Drone_Operator_App.md)
+- [Airspace Owner App](docs/apps/Airspace_Owner_App.md)
+- [Drone Operator App](docs/apps/Drone_Operator_App.md)
+- [CivilScout App](docs/apps/CivilScout_App.md)
 
 ### Node Types
-- [Control Towers](docs/Control_Towers.md)
-- [Credentialing Nodes](docs/Credentialing_Nodes.md)
-- [Droneports](docs/Droneports.md)
-- [Safety Nodes](docs/Safety_Nodes.md)
+- [Control Towers](docs/nodes/Control_Towers.md)
+- [Credentialing Nodes](docs/nodes/Credentialing_Nodes.md)
+- [Droneports](docs/nodes/Droneports.md)
+- [Safety Nodes](docs/nodes/Safety_Nodes.md)
 
 ### Partners
 - [Airspace Owners](docs/partners/Airspace_Owners.md)
@@ -124,3 +126,6 @@ The CivilAirspace protocol includes base level contracts that enable:
 - [IPFS Integration](docs/infrastructure/ipfs.md)
 - [Node Operations](docs/infrastructure/nodes.md)
 - [Droneport Infrastructure](docs/infrastructure/droneports.md)
+
+### Use Cases
+- [Research Data Collection](docs/use_cases/Research_Data_Collection.md)
