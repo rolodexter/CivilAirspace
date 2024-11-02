@@ -2,6 +2,9 @@
 
 The CivilAirspace network operates through a distributed system of specialized nodes that work together to enable secure, efficient, and compliant drone operations.
 
+![Nodes Enabling Drone Operations](../docs/images/NodesEnablingDroneOperations.png)
+
+
 ## Node Types
 
 ### [Control Towers](docs/Control_Towers.md)
