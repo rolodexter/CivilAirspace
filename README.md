@@ -13,6 +13,9 @@ While our skies remain largely unused, property owners and drone operators await
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Joe_Maristela-0077B5?style=social&logo=linkedin)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Will_Tobin-0077B5?style=social&logo=linkedin)
 
+## Use Cases
+- [Research Data Collection](docs/use_cases/Research_Data_Collection.md) - How university researchers can acquire aerial survey data through the network
+
 ## [Airspace Owner App](docs/Airspace_Owner_App.md)
 A dedicated mobile application for property owners to:
 - Set up and manage airspace schedules
