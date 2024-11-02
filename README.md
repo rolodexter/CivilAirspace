@@ -100,7 +100,7 @@ The CivilAirspace network operates with a corporate economic structure:
 2. After covering operational costs (e.g., node maintenance, regulatory compliance), any remaining net profit is distributed as dividends among participants (e.g., drone operators, airspace owners).
 3. Dividends are distributed in CIVIL tokens via smart contracts that automate payments based on each participant's role in the network.
 
-For more details on the economic design of CivilAirspace, refer to the [Economic Design Documentation](Economic_Design).
+For more details on the economic design of CivilAirspace, refer to the [Economic Design Documentation](CivilAirspace/Economic_Design).
 
 ## [Protocol Design](docs/protocol/Protocol_Design.md)
 
