@@ -34,7 +34,7 @@ A specialized interface for drone operators to:
 ![Drone Operations Management Funnel](docs/images/DroneOperationsManagementFunnel.png)
 
 # [Nodes](docs/Nodes.md)
-
+![CivilAirspace Nodes](docs/images/CivilAirspaceNodes.png)
 1. **[Control Towers](docs/Control_Towers.md)**
    - Real-time airspace coordination
    - Traffic management and routing
@@ -60,8 +60,6 @@ A specialized interface for drone operators to:
    - Local compliance
    - Safety monitoring
    - Incident reporting
-
-
 
 # [Tokenomics](docs/Tokenomics.md)
 The CIVIL token powers coordination across CivilAirspace, enabling:
