@@ -86,3 +86,28 @@ The CivilAirspace protocol includes base level contracts that enable:
 
 3. **[Airspace Owners](docs/partners/Airspace_Owners.md)**  
    Property owners with verified rights to license their airspace for drone operations.
+
+## Documentation Index
+### Protocol Design
+- [Protocol Design Overview](docs/protocol/Protocol_Design.md)
+- [Tokenomics](docs/Tokenomics.md)
+
+### Apps
+- [Airspace Owner App](docs/Airspace_Owner_App.md)
+- [Drone Operator App](docs/Drone_Operator_App.md)
+
+### Node Types
+- [Control Towers](docs/Control_Towers.md)
+- [Credentialing Nodes](docs/Credentialing_Nodes.md)
+- [Droneports](docs/Droneports.md)
+- [Safety Nodes](docs/Safety_Nodes.md)
+
+### Partners
+- [Airspace Owners](docs/partners/Airspace_Owners.md)
+- [Droneports](docs/partners/Droneports.md)
+- [Public Safety](docs/partners/Public_Safety.md)
+
+### Infrastructure
+- [IPFS Integration](docs/infrastructure/ipfs.md)
+- [Node Operations](docs/infrastructure/nodes.md)
+- [Droneport Infrastructure](docs/infrastructure/droneports.md)
