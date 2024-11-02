@@ -3,6 +3,8 @@
 ## Scenario Overview
 A university research team needs aerial survey data to study animal species distribution in a specific geographic area. This case demonstrates how CivilAirspace facilitates collaboration between researchers, airspace owners, and drone operators.
 
+![Aerial Survey Data](/docs/images/AerialSurveyData.png)
+
 ## Workflow
 
 ### 1. Research Request Submission
