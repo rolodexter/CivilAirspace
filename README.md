@@ -81,6 +81,15 @@ The CIVIL token powers coordination across CivilAirspace, enabling:
 - Data marketplaces 
 - Network governance
 
+## Economic Design
+
+The CivilAirspace network operates with a corporate economic structure:
+- The network generates revenue by facilitating drone operations, managing airspace usage, and ensuring compliance.
+- After covering operational costs (e.g., node maintenance, regulatory compliance), any remaining net profit is distributed as dividends among participants.
+- Participants include drone operators, airspace owners, credentialing nodes, control towers, and safety nodes—each receiving compensation based on their contributions.
+
+Dividends are distributed in CIVIL tokens via smart contracts that automate payments based on each participant's role in the network.
+
 ## [Protocol Design](docs/protocol/Protocol_Design.md)
 The CivilAirspace protocol includes base level contracts that enable:
 - Airspace licensing

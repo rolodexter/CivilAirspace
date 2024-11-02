@@ -86,6 +86,12 @@ The app integrates with the FAA’s LAANC system to provide real-time flight aut
   - **Remote ID Status Monitoring**: Track whether the drone is broadcasting a valid Remote ID during flight.
   - **LAANC Authorization Status**: Monitor whether flights in controlled airspace have received proper authorization.
 
+### Data Ownership Tracking
+- Drone operators can view their share of ownership in each dataset they generate through the app. The app also provides insights into potential earnings from data sales or licensing agreements facilitated by the network.
+
+### Operator Rewards
+- Drone operators earn additional rewards for maintaining compliance with network standards and contributing high-quality data. These rewards are distributed in CIVIL tokens and can be tracked through the app’s earnings dashboard.
+
 ## Technical Requirements
 
 ### Device Compatibility

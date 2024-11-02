@@ -23,9 +23,11 @@ The **CivilScout App** is a specialized interface designed for researchers, data
 - **Budget Tracking**: Track project costs and manage payments using CIVIL tokens or other payment methods.
 
 ### 4. Payment Processing
-- **CIVIL Token Payments**: Pay drone operators using CIVIL tokens for completed projects.
 - **Multiple Payment Options**: Support for various payment methods (e.g., crypto, fiat) to facilitate transactions between CivilScouts and drone operators.
 - **Payment Milestones**: Set up milestone-based payments to ensure that funds are only released upon successful completion of project phases.
+
+#### Payment with CIVIL Tokens
+- CivilScouts use CIVIL tokens to pay for data collection services. Smart contracts ensure that payments are only released when specific conditions are met, such as successful data delivery or verification.
 
 ## Interface Design
 

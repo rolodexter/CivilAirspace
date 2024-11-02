@@ -58,12 +58,18 @@ Smart contracts manage:
 - Network service fees
 - Data verification rewards
 
+#### Tokenomics Integration
+CIVIL tokens are used to facilitate transactions for data collection services. Drone operators receive tokens as compensation for their contributions, while the CivilAirspace network takes a portion of earnings to cover operational costs. Smart contracts automate these transactions, ensuring transparency and fairness.
+
 ### 7. Data Delivery
 - Verified data stored on IPFS
 - Access granted to research team
 - Usage rights transferred
 - Citation requirements established
 - Data provenance recorded
+
+#### Data Provenance
+- All collected data is verified and stored on IPFS with blockchain-based provenance tracking. This ensures that researchers can trust the authenticity of the data, with clear records of who generated it and when it was collected.
 
 ## Benefits
 
@@ -87,3 +93,6 @@ Smart contracts manage:
 - Automated payments
 - Optimized routes
 - Quality verification
+
+### Data Ownership
+The data collected during research operations is jointly owned by the drone operators (data generators) and the CivilAirspace network. This shared ownership ensures that both parties benefit from data monetization while supporting network sustainability.
