@@ -20,14 +20,12 @@ CivilAirspace is a decentralized platform that enables property owners, drone op
 - **[Research Data Collection](docs/use_cases/Research_Data_Collection.md)**:  
   University researchers can submit data collection requests through CivilAirspace to acquire aerial survey data for various research purposes. Researchers can define parameters such as location, altitude, and frequency of data collection. Drone operators fulfill these requests by capturing the required data using drones. Collected data is then delivered back to the researchers through the CivilScout App, where they can review and analyze it. Payments are processed using CIVIL tokens, ensuring seamless transactions between researchers and drone operators.
 
-- **[[Ad-Hoc Data Collection]]**:  
+- **[Ad-Hoc Data Collection](docs/Ad_Hoc_Data_Requests.md)**:  
   CivilScouts can submit spontaneous data requests based on real-time observations in specific locations. For example, a CivilScout hiking in Yosemite may spot a black bear but be unable to capture a photo. Using the Ad-Hoc Data Collection feature in the CivilScout App, they can leave a geo-tagged request asking other scouts or drone operators to capture an image of the bear if they see it. These requests remain active for a specified duration (e.g., 24 hours), allowing others nearby to fulfill them by submitting the requested data. Once fulfilled, payments are processed using CIVIL tokens, rewarding those who contribute valuable data.
-
-
 
 ## [CivilScout App](docs/CivilScout_App.md)
 
-The **[[CivilScout App]]** is designed for researchers and data consumers to:
+The **CivilScout App** is designed for researchers and data consumers to:
 - Submit data collection requests.
 - Define data requests (and request parameters).
 - Manage data acquisitions.
@@ -100,7 +98,7 @@ The CivilAirspace network operates with a corporate economic structure:
 2. After covering operational costs (e.g., node maintenance, regulatory compliance), any remaining net profit is distributed as dividends among participants (e.g., drone operators, airspace owners).
 3. Dividends are distributed in CIVIL tokens via smart contracts that automate payments based on each participant's role in the network.
 
-For more details on the economic design of CivilAirspace, refer to the [Economic Design Documentation](CivilAirspace/Economic_Design).
+For more details on the economic design of CivilAirspace, refer to the [Economic Design Documentation](docs/Economic_Design.md).
 
 ## [Protocol Design](docs/protocol/Protocol_Design.md)
 
@@ -126,18 +124,18 @@ The CivilAirspace protocol includes base-level contracts that enable:
 
 ### Protocol Design
 - [Protocol Design Overview](docs/protocol/Protocol_Design.md)
-- [Tokenomics Overview](tokenomics/Tokenomics)
+- [Tokenomics Overview](docs/tokenomics/Tokenomics.md)
 
 ### Apps
-- [Airspace Owner App Overview](apps/Airspace_Owner_App)
-- [Drone Operator App Overview](apps/Drone_Operator_App)
-- [CivilScout App Overview](apps/CivilScout_App)
+- [Airspace Owner App Overview](docs/apps/Airspace_Owner_App.md)
+- [Drone Operator App Overview](docs/apps/Drone_Operator_App.md)
+- [CivilScout App Overview](docs/apps/CivilScout_App.md)
 
 ### Node Types
-- [Control Towers Overview](nodes/Control_Towers)
+- [Control Towers Overview](docs/nodes/Control_Towers.md)
 - [Credentialing Nodes Overview](docs/nodes/Credentialing_Nodes.md)
-- [Droneports Overview](nodes/Droneports)
-- [Safety Nodes Overview](nodes/Safety_Nodes)
+- [Droneports Overview](docs/nodes/Droneports.md)
+- [Safety Nodes Overview](docs/nodes/Safety_Nodes.md)
 
 ### Partners
 - [Airspace Owners Overview](docs/partners/Airspace_Owners.md)
