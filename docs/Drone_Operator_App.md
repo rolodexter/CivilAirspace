@@ -14,6 +14,8 @@ A specialized interface for drone operators to manage operations, discover avail
 - Status monitoring and alerts
 - Additional compliance tools integration
 
+![Drone Operations Management](docs\images\DroneOperationsManagement.png)
+
 ### 2. Scheduling & Planning
 - Calendar-based operation scheduling (39:08 format)
 - Time slot management
@@ -40,12 +42,6 @@ A specialized interface for drone operators to manage operations, discover avail
 - Smart contract integration
 
 ## Interface Design
-
-### Dark Theme
-- Optimized for outdoor visibility
-- Reduced eye strain
-- High contrast for critical information
-- Clean, modern aesthetic
 
 ### Navigation
 - Bottom bar quick access
