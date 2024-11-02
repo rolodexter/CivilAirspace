@@ -7,6 +7,8 @@ A university research team uses their CivilScout account to request aerial surve
 
 ## Workflow
 
+![How to Initiate Research](../images/Howtoinitiateresearch.png)
+
 ### 1. Research Request Submission
 The university research team, through their CivilScout interface:
 - Specifies geographic boundaries of study area
@@ -62,7 +64,6 @@ Smart contracts manage:
 - Usage rights transferred
 - Citation requirements established
 - Data provenance recorded
-
 
 ## Benefits
 
