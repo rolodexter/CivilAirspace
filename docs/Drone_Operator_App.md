@@ -2,7 +2,7 @@
 
 A specialized interface for drone operators to manage operations, discover available airspace, comply with regulations (including Remote ID and LAANC), and monetize collected data through the CivilAirspace network.
 
-![Drone Operator App Unified Solution](../docs/images/DroneOperatorAppUnifiedSolution.png)
+![Drone Operations Compliance](../docs/images/DroneOperationsCompliance.png)
 
 ## Core Features
 
@@ -43,13 +43,15 @@ A specialized interface for drone operators to manage operations, discover avail
 - Expanded payment options
 - Smart contract integration
 
-### 5. CivilScout Data Requests Monitoring **(New Section)**
+### 5. CivilScout Data Requests Monitoring
 Drone operators can monitor what **CivilScouts** are requesting in terms of aerial data through the app. This feature allows operators to:
   - View ongoing data collection requests from CivilScouts.
   - Evaluate project parameters such as location, time frame, and specific data needs.
   - Field responses to these gigs or projects by accepting or declining requests.
   - Manage multiple projects simultaneously and prioritize based on earnings potential or operational feasibility.
   - Stay informed about upcoming opportunities and adjust their flight schedules accordingly.
+
+![Drone Operator App Unified Solution](../docs/images/DroneOperatorAppUnifiedSolution.png)
 
 ## Remote ID Integration
 
