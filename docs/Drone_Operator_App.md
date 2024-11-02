@@ -2,7 +2,7 @@
 
 A specialized interface for drone operators to manage operations, discover available airspace, comply with regulations (including Remote ID and LAANC), and monetize collected data through the CivilAirspace network.
 
-![Drone Operator App Interface](/docs/images/DroneOperatorApp.jpeg)
+![Drone Operator App Unified Solution](../docs/images/DroneOperatorAppUnifiedSolution.png)
 
 ## Core Features
 
