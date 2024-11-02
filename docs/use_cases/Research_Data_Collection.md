@@ -1,20 +1,20 @@
 # Research Data Collection Use Case
 
 ## Scenario Overview
-A university research team needs aerial survey data to study animal species distribution in a specific geographic area. This case demonstrates how CivilAirspace facilitates collaboration between researchers, airspace owners, and drone operators.
+A university research team uses their CivilScout account to request aerial survey data to study animal species distribution in a specific geographic area. This case demonstrates how CivilAirspace facilitates collaboration between CivilScouts, airspace owners, and drone operators.
 
 ![Aerial Survey Data](/docs/images/AerialSurveyData.png)
 
 ## Workflow
 
 ### 1. Research Request Submission
-The university research team submits a data collection request specifying:
-- Geographic boundaries of study area
-- Required flight altitudes
-- Data collection frequency
-- Image/sensor requirements
-- Project timeline
-- Research budget parameters
+The university research team, through their CivilScout interface:
+- Specifies geographic boundaries of study area
+- Defines required flight altitudes
+- Sets data collection frequency
+- Details image/sensor requirements
+- Outlines project timeline
+- Provides research budget parameters
 
 ### 2. Network Response
 CivilAirspace network automatically:
@@ -62,6 +62,7 @@ Smart contracts manage:
 - Usage rights transferred
 - Citation requirements established
 - Data provenance recorded
+
 
 ## Benefits
 
